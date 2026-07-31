@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   description: "京都河原町駅徒歩1分、鴨川沿いのBAR CRAFT倶楽部 KAMOGAWA。クラフトカクテルとウイスキー、京都の街並みを望むルーフトップを楽しめるバーです。火〜土19:00〜翌2:00。",
   alternates: { canonical: "/" },
   robots: { index: true, follow: true },
+  verification: { google: "ayHXvvh7MAYyEd0yabm5xYrI98qeN_1bfcLkvUPkbrM" },
   openGraph: { title: "BAR CRAFT倶楽部 KAMOGAWA", description: "京都・木屋町、鴨川沿いのAuthentic Cocktail Bar", url: siteUrl, siteName: "BAR CRAFT倶楽部 KAMOGAWA", locale: "ja_JP", type: "website" },
   twitter: { card: "summary", title: "BAR CRAFT倶楽部 KAMOGAWA", description: "京都・木屋町、鴨川沿いのAuthentic Cocktail Bar" }
 };
